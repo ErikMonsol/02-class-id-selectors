@@ -1,0 +1,30 @@
+*{
+   }
+
+   .odd{
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+   }
+
+   #one {
+    color: blue;
+    font-size: 24px;
+  }
+
+  .cooler {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans , sans-serif;
+    font-size: 24px;
+  }
+
+  #two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .twoodd{
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    
+  }
